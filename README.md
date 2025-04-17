@@ -3,10 +3,10 @@
 A modern web application designed to simplify cryptocurrency exploration. This platform provides users with up-to-date cryptocurrency rankings, market data, and the latest news from the crypto world, all presented in a clean, dark-themed interface.
 
 <div align="center">
-  <a href="https://youtu.be/HpfK4TCeurc">
-    <img src="https://img.youtube.com/vi/HpfK4TCeurc/maxresdefault.jpg" alt="Crypto Compass Demo" width="600" style="border-radius: 12px; box-shadow: 0 5px 15px rgba(0,0,0,0.2);">
+  <a href="https://www.marwan-boudiab.com/projects/crypto-compass#demo">
+    <img src="https://crrwymojtb.ufs.sh/f/0ge4q9E4PJeZUfApWAIFCZb5kY3ph4UrfyEsPVXTDdW2SJgK" alt="Crypto Compass Demo" width="600" style="border-radius: 12px;">
     <br>
-    <img width="96" height="96" src="https://img.icons8.com/color/96/youtube-play.png" alt="youtube-play"/>
+    <p><strong>▶️ Click to watch project demo</strong></p>
   </a>
 </div>
 
